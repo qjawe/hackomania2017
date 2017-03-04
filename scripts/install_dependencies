@@ -1,0 +1,5 @@
+#!/bin/bash
+sudo npm install --allow-root
+sudo npm install -g forever --allow-root
+sudo npm install -g bower --allow-root
+sudo bower install --allow-root
